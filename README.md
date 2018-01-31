@@ -10,4 +10,3 @@ Language and Libraries Used:<br>
 2- Django webframework<br>
 3- MySQL database <br> 
 <br> 
-Still Under development<br>
